@@ -3,7 +3,7 @@ This repository provides benchmark experiments for the SCQPTH differentiable QP 
 
 For more information please see our publication:
 
-[arXiv (preprint)](https://github.com/ipo-lab/scqpth)
+[arXiv (preprint)](https://arxiv.org/abs/2308.08232)
 
 
 ## Core Dependencies:
