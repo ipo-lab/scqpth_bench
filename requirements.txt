@@ -7,13 +7,13 @@ diffcp==1.0.21
 ecos==2.0.12
 fonttools==4.38.0
 kiwisolver==1.4.4
--e git+ssh://git@github.com/ipo-lab/lqp_py@5e755d01a5c56ff70c1c56cf9e9588e52a46890b#egg=lqp_py
+-e git+ssh://git@github.com/ipo-lab/lqp_py@01eb9f7b4b18954268fe6ee96f53eaa5901258c0#egg=lqp_py
 matplotlib==3.6.2
 numpy==1.24.1
 osqp==0.6.2.post8
 packaging==23.0
 pandas==1.5.2
-Pillow==9.4.0
+Pillow==10.0.1
 pybind11==2.10.3
 pyparsing==3.0.9
 python-dateutil==2.8.2
@@ -21,7 +21,7 @@ pytz==2022.7.1
 qdldl==0.1.5.post2
 qpth==0.0.15
 scipy==1.10.0
--e git+ssh://git@github.com/ipo-lab/scqpth@09bf335649cc0df15b89f6afd591dc7d5273b1ad#egg=scqpth
+-e git+ssh://git@github.com/ipo-lab/scqpth@863b73db1a2067520e0fb7b82d71d4dd5eb6e054#egg=scqpth
 scs==3.2.2
 six==1.16.0
 threadpoolctl==3.1.0
